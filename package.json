@@ -1,0 +1,12 @@
+{
+  "name": "Language Loader",
+  "version": "0.0.1",
+  "main": "Language.php",
+  "description": "Translate website easy with phalconphp",
+  "author": "@ivancduran",
+  "license": {
+    "type": "MIT",
+    "url": ""
+  },
+  "repository": "git@github.com:ivancduran/Langppm.git"
+}
