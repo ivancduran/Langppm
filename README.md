@@ -24,7 +24,7 @@ execute in controller
     public function enAction(){
 
       // save the lenguage in session
-      // if you can change the lenguage you ned modify this session
+      // if you can change the lenguage you need modify this session
       $this->session->set('language','en-EN');
 
       // return the session lenguage
