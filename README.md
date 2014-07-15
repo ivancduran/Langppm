@@ -36,3 +36,20 @@ execute in controller
       $this->view->setVar("t", $this->lang->get());
 
     }
+
+
+view test
+
+    {{ t._('hi') }}
+
+    </br>
+    -
+    </br>
+
+    {{ t._('bye') }}
+
+    </br>
+    -
+    </br>
+
+    {{ t._('hi-name',['name' : 'ivan' ]) }}
